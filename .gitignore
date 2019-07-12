@@ -1,0 +1,11 @@
+.DS_Store
+Podfile.lock
+Pods/
+GenericsTable/.DS_Store
+GenericsTable/Assets.xcassets/.DS_Store
+GenericsTable/View/.DS_Store
+GenericsTable.xcodeproj/project.xcworkspace/xcshareddata/
+GenericsTable.xcodeproj/xcuserdata/
+GenericsTable.xcodeproj/project.xcworkspace/xcuserdata/
+GenericsTable.xcworkspace/xcshareddata/
+GenericsTable.xcworkspace/xcuserdata/
